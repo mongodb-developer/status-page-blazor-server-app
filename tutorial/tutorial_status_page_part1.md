@@ -1,4 +1,4 @@
-# Building a Status Page Using Microsoft Blazor and MongoDB Atlas (Part 1)
+# Microsoft Blazor Tutorial (1/5): Building a Status Page
 
 Have you ever built an application that consisted of multiple different systems that you had to observe and make sure they run properly?
 Some services might offer to send notifications, like [MongoDB Atlas](https://www.mongodb.com/atlas) or Microsoft Azure App Service.
